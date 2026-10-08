@@ -33,19 +33,19 @@ My areas of interest include:
 
 ## Tech Stack
 
-**Languages**
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
 </p>
 
-**Web Development**
+### Web Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
 </p>
 
-**Tools**
+### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -56,16 +56,19 @@ My areas of interest include:
 ## Projects
 
 ### RentProof
-A digital property inspection platform designed to document rental property conditions and help compare move-in and move-out states.
+
+A digital property inspection platform designed to document rental property conditions and compare move-in and move-out states.
 
 **Focus:** AI · Computer Vision · Web Development
 
 ### Amazon Clone
+
 A front-end e-commerce project built to practice responsive UI development and core shopping functionality.
 
 **Focus:** HTML · CSS · JavaScript
 
 ### SevaSaathi
+
 An AI-powered digital assistant concept designed to help users discover and understand government schemes through a multilingual interface.
 
 **Focus:** AI · React · TypeScript · Tailwind CSS
@@ -75,12 +78,8 @@ An AI-powered digital assistant concept designed to help users discover and unde
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanishqKumarSingh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanishqKumarSingh&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishqKumarSingh&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishqKumarSingh&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ---
