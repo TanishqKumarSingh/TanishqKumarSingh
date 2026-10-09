@@ -1,15 +1,15 @@
-<h1 align="center">Tanishq Kumar Singh</h1>
+# Tanishq Kumar Singh
 
-<p align="center">
-  Computer Science Engineering Student · Developer
-</p>
+Computer Science Engineering student at ABES Engineering College.
 
-<p align="center">
+Interested in software development, problem-solving, and understanding how things work under the hood. Currently working on my programming fundamentals and building projects along the way.
+
+<p>
   <a href="https://github.com/TanishqKumarSingh">
-    <img src="https://img.shields.io/github/followers/TanishqKumarSingh?label=Followers&style=flat" />
+    <img src="https://img.shields.io/github/followers/TanishqKumarSingh?label=Followers&style=flat-square" alt="GitHub followers" />
   </a>
   <a href="https://github.com/TanishqKumarSingh?tab=repositories">
-    <img src="https://img.shields.io/github/stars/TanishqKumarSingh?affiliations=OWNER&style=flat&label=Stars" />
+    <img src="https://img.shields.io/github/stars/TanishqKumarSingh?affiliations=OWNER&style=flat-square&label=Stars" alt="GitHub stars" />
   </a>
 </p>
 
@@ -17,38 +17,35 @@
 
 ## About
 
-I'm a Computer Science Engineering student at **ABES Engineering College** with an interest in software development and emerging technologies.
+I'm a CSE student exploring different areas of computer science and figuring out what I enjoy building most.
 
-Currently working on improving my fundamentals in **Data Structures & Algorithms**, while building projects with modern web technologies.
+Right now, I'm focusing on:
 
-My areas of interest include:
+- Data Structures and Algorithms
+- Web Development
+- Artificial Intelligence and Machine Learning
+- Cybersecurity and Cloud Computing
 
-- Software & Web Development
-- Artificial Intelligence & Machine Learning
-- Cybersecurity
-- Cloud Computing
-- Competitive Programming
-
----
+I also enjoy working on ideas that combine technology with practical, everyday problems.
 
 ## Tech Stack
 
-### Languages
+**Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript" alt="C, C++, Python and JavaScript" />
 </p>
 
-### Web Development
+**Web Development**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" alt="HTML, CSS, React and Node.js" />
 </p>
 
-### Tools
+**Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and VS Code" />
 </p>
 
 ---
@@ -57,42 +54,41 @@ My areas of interest include:
 
 ### RentProof
 
-A digital property inspection platform designed to document rental property conditions and compare move-in and move-out states.
+A property inspection platform for documenting rental conditions and comparing a property's state at move-in and move-out.
 
-**Focus:** AI · Computer Vision · Web Development
+`AI` `Computer Vision` `Web Development`
 
 ### Amazon Clone
 
-A front-end e-commerce project built to practice responsive UI development and core shopping functionality.
+A front-end e-commerce project built to practise responsive layouts and shopping interface functionality.
 
-**Focus:** HTML · CSS · JavaScript
+`HTML` `CSS` `JavaScript`
 
 ### SevaSaathi
 
-An AI-powered digital assistant concept designed to help users discover and understand government schemes through a multilingual interface.
+A multilingual digital assistant concept to help people discover and understand government schemes.
 
-**Focus:** AI · React · TypeScript · Tailwind CSS
+`React` `TypeScript` `Tailwind CSS` `AI`
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanishqKumarSingh&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishqKumarSingh&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TanishqKumarSingh&show_icons=true&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e&icon_color=8b949e&include_all_commits=true" height="150" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishqKumarSingh&layout=compact&hide_border=true&bg_color=00000000&title_color=8b949e&text_color=8b949e" height="150" alt="Most used languages" />
 </p>
 
 ---
 
-## Currently
+## Currently Working On
 
-- Strengthening DSA and problem-solving skills
-- Building web development projects
-- Exploring AI/ML and cybersecurity
-- Participating in coding and technical events
+- Practising DSA and solving coding problems
+- Building and improving web projects
+- Learning more about AI and cybersecurity
 
 ---
 
 <p align="center">
-  <i>Build. Learn. Iterate.</i>
+  <sub>Learning as I go.</sub>
 </p>
